@@ -1,0 +1,33 @@
+Hello,  
+
+I hope this message finds you well. I am sharing the following details and resources for your reference:  
+
+### **Projects**  
+1. **react-native-video-test-2**:  
+   - A sample code repository available on GitHub.  
+   - Please note that this project has not been built yet.  
+
+2. **rn-video-test**:  
+   - This project has been developed using the necessary versions and includes functionality for decryption during streaming.  
+   - However, it has not been tested on my end. I kindly request your assistance in testing this project and implementing it on your site.  
+   - Relevant file: `/App-Decryption.js` – Please refer to this file for decryption during streaming.  
+
+### **Additional Resources**  
+- **maven2.tar.gz**:  
+   This archive contains Maven repositories for:  
+   - VLC Android SDK  
+   - Android ExoPlayer  
+   - Spring WebSocket  
+   - Android Scalable Video View  
+
+- **guides/** Folder:  
+   - Includes several guides on:  
+     - Implementing streaming decryption with `react-native-video`.  
+     - Enabling Hibernate query logging.  
+
+- **.gradle/** Folder:  
+   - Contains `.gradle` caches generated during the build process on my side.  
+
+Please feel free to reach out if you have any questions or require further assistance. Thank you for your attention to these matters.  
+
+Best regards
